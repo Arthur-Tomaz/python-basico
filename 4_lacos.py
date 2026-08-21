@@ -2,7 +2,7 @@
 # Python não usa o for de 3 blocos do JS (for (let i = 1; i <= 10; i++)).
 # range(1, 11) gera os números de 1 até 10 (o último número nunca é incluído)
 for i in range(1, 11):
-    print(f"5 x {i} = {5 * i}")
+    print(f"4 x {i} = {4 * i}")
 
 print()
 

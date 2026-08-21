@@ -3,8 +3,8 @@
 # — basta atribuir (a = 5) que ela já existe.
 
 a = 5
-b = 3
-soma = a + b
+b = 8
+soma = a * b
 
 # f-string: forma moderna de inserir variáveis dentro de um texto
 # equivalente à template string do JS: `A soma de ${a} e ${b} é: ${soma}`
